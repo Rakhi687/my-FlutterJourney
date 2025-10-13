@@ -1,0 +1,57 @@
+                            DART PROGRAMES 
+
+ print("hello wolrd");
+//   int firstVal=123;
+//   print(firstVal.isEven);
+  
+//   final b=23;
+//   const a=111;
+//   print(a);
+//   print(b);
+//   b=123; main.dart:10:3: Error: Can't assign to the final variable 'b'.
+//   print(b);
+  
+  
+//    dynamic  c=123;
+//   print(c);
+//   print(c.runtimeType);
+  
+//   bool isempty=false;
+//   print(isempty);
+  
+//   if(isempty){
+//     print("hello");
+   
+//   }
+//   else {
+//     print("hii");
+//   }
+  
+//   for(int i=0;i<10;i++){
+//     if(i%2==0){
+//       print(i);
+//     }
+//   }
+  
+//   int i=0;
+//   while(i<=10){
+//     print(i);
+//     i+=1;
+//   }
+//   String s= 'Hello';
+//   print(s.length);
+//   print(s.substring(1,3));
+  
+//   for(int i=0;i<s.length;i++){
+//     print(s[i]);
+//   }
+  
+//   int i=0;
+//   while(i<s.length){
+//     print(s[i]);
+//     i+=1;
+//   }
+  
+//   s='${s} \nbuddies';
+//   print(s);
+  
